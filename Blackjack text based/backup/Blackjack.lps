@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Blackjack.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="103"/>
+        <CursorPos X="16" Y="123"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="19" HistoryIndex="18">
+      <Position1>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="94" Column="21" TopLine="20"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="93" Column="31" TopLine="80"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="4" Column="20"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="104" Column="4" TopLine="80"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="67" Column="15" TopLine="60"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="27" Column="22" TopLine="12"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="97" Column="28" TopLine="76"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="138" Column="17" TopLine="113"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="140" Column="15" TopLine="118"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="119" Column="15" TopLine="105"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="133" Column="19" TopLine="116"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="113" Column="14" TopLine="98"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="131" Column="25" TopLine="112"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="119" Column="15" TopLine="104"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="96" Column="27" TopLine="75"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="94" Column="30" TopLine="94"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="56" Column="22" TopLine="31"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="33" Column="57" TopLine="19"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Blackjack.pas"/>
+        <Caret Line="64" TopLine="56"/>
+      </Position19>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

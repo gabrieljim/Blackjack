@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<link rel="stylesheet" type="text/css" href="Blackjack.css">
+
+
+</head>
+<body>
+
+<div id="bienvenida">
+	<h1>Bienvenido a Blackjack!</h1>
+	<h3>Pierdes si te quedas sin dinero, empiezas con 50</h3>
+	<h4>Facil: tu meta es 250</h4>
+	<h4>Medio: tu meta es 500</h4>
+	<h4>Dificil: tu meta es 1000</h4>
+	<div id="buttons"></div>
+		<button onclick="dificultad(1)" autofocus>Facil</button>
+		<button onclick="dificultad(2)">Medio</button>
+		<button onclick="dificultad(3)">Dificil</button>
+		<br><br>
+		<button onclick="jugar()">Presiona para empezar!</button>
+	</div>
+</div>
+
+<div id="dinero">
+	<p>Tu dinero: <span id="bankr"></span></p>
+	<p>Tu meta: <span id="meta"></span></p>
+</div>
+
+<div id="jugador">
+	<div id="cartas">
+		<div class="card"><p class="number"></p></div>
+		<div class="card"><p class="number"></p></div>
+		<div class="card"><p class="number"></p></div>
+		<div class="card"><p class="number"></p></div>
+		<div class="card"><p class="number"></p></div>
+		<div class="card"><p class="number"></p></div>
+		<div class="card"><p class="number"></p></div>
+	</div>
+	<p id="total"></p>
+	<button onclick="pedir()">Pedir</button>
+	<button onclick="quedarse()">Quedarse</button>
+</div>
+
+<span id="total"></span>
+
+<div id="pc">
+	<div id="cartas">
+		<div class="card2"><p class="number2"></p></div>
+		<div class="card2"><p class="number2"></p></div>
+		<div class="card2"><p class="number2"></p></div>
+		<div class="card2"><p class="number2"></p></div>
+		<div class="card2"><p class="number2"></p></div>
+		<div class="card2"><p class="number2"></p></div>
+		<div class="card2"><p class="number2"></p></div>
+	</div>
+</div>
+
+<span id="totalpc"></span>
+
+<script type="text/javascript" src="Blackjack.js"></script>
+</body>
+</html>
